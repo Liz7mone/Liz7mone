@@ -29,6 +29,8 @@ A footnote can also have multiple lines[^2].
 | [![](https://img.shields.io/badge/-@Liz7mone-black?style=flat-square&logo=X&logoColor=white&link=https://x.com/liz7monereal)](https://x.com/liz7monereal) | [![](https://img.shields.io/badge/-@Liz7mone0-darkblue?style=flat-square&logo=Paypal&logoColor=blue&link=https://https://paypal.me/Liz7mone0?country.x=IT&locale.x=it_IT)](https://paypal.me/Liz7mone0?country.x=IT&locale.x=it_IT)
 | [![](https://img.shields.io/badge/-Liz7mone-white?style=flat-square&logo=Reddit&logoColor=orange&link=https://www.reddit.com/Liz7mone)](https://www.reddit.com/user/Sure_Indication_9201/) | ![](https://img.shields.io/badge/-Liz7mone-white?style=flat-square&logo=Epicgames&logoColor=black)
 
+[![](https://img.shields.io/badge/-Liz7mone-white?style=flat-square&logo=Onlyfans&logoColor=blue&link=https://onlyfans.com/skybrixo)](https://onlyfans.com/skybrixo)
+
 <!--
   | [![](https://img.shields.io/badge/-Liz7mone-white?style=flat-square&logo=Mega&logoColor=red&link=https://mega.nz/C!uvgnDKQS)](https://mega.nz/C!uvgnDKQS)
   | [![](https://img.shields.io/badge/-Liz7mone-white?style=flat-square&logo=Mediafire&logoColor=blue&link=https://www.mediafire.com/folder/3fuwsjhiyqxx7/Adobe)](https://www.mediafire.com/folder/3fuwsjhiyqxx7/Adobe)
