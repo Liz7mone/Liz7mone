@@ -1,3 +1,5 @@
+<img src="https://tenor.com/it/view/load-loading-april-fools-gif-5435835">
+
 # THE KING
 ### LINK
 | Social | Utility | Other |
