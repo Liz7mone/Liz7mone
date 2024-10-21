@@ -1,25 +1,12 @@
 <img src="tenor.gif" width="1500">
 
-𝑨𝒃𝒐𝒖𝒕 𝒎𝒆...
--
-I am a `student` at [*I.I.S G. Vallauri*](http://www.vallauri.edu/public/ita/pagina.asp)
+[![GitHub @Liz7mone](https://img.shields.io/github/followers/Liz7mone?label=follow&style=social)](https://github.com/Liz7mone)
 
-> This is a quote
+Thanks for coming to my profile. Below you will find some `information` about me.
 
-- [x] first
-- [ ] second
-- [ ] third
+I am studying  ICT at [*I.I.S G. Vallauri*](http://www.vallauri.edu/public/ita/pagina.asp)
 
-Here is a simple footnote[^1].
-
-A footnote can also have multiple lines[^2].
-
-[^1]: My reference.
-[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
-  This is a second line.
-
-𝕃𝕚𝕟𝕜
--
+### 𝕃𝕚𝕟𝕜 🔗
 | Social | Other |
 | ------ | ----- |
 | [![](https://img.shields.io/badge/-__.simonelisa.__-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/_.simonelisa._)](https://instagram.com/_.simonelisa._) | [![](https://img.shields.io/badge/-Spatium💫-blue?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/3DB959S88z)](https://discord.gg/3DB959S88z)
@@ -29,13 +16,13 @@ A footnote can also have multiple lines[^2].
 | [![](https://img.shields.io/badge/-@Liz7mone-black?style=flat-square&logo=X&logoColor=white&link=https://x.com/liz7monereal)](https://x.com/liz7monereal) | [![](https://img.shields.io/badge/-@Liz7mone0-darkblue?style=flat-square&logo=Paypal&logoColor=blue&link=https://https://paypal.me/Liz7mone0?country.x=IT&locale.x=it_IT)](https://paypal.me/Liz7mone0?country.x=IT&locale.x=it_IT)
 | [![](https://img.shields.io/badge/-Liz7mone-white?style=flat-square&logo=Reddit&logoColor=orange&link=https://www.reddit.com/Liz7mone)](https://www.reddit.com/user/Sure_Indication_9201/) | ![](https://img.shields.io/badge/-Liz7mone-white?style=flat-square&logo=Epicgames&logoColor=black)
 
-[![](https://img.shields.io/badge/-Liz7mone-white?style=flat-square&logo=Onlyfans&logoColor=blue&link=https://onlyfans.com/skybrixo)](https://onlyfans.com/skybrixo)
+### ℙ𝕣𝕠𝕛𝕖𝕔𝕥 🛠
+| Name | Description | Tech Stack | Url |
+| ---- | ----------- | ---------- | --- |
+| **`My Website`** | A website build for show my life and career | | `works in progress`
+| **`Fiscus`** | A discord bot with an economy and <br> management system of a virtual currency | ![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=yellow) ![](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript&logoColor=yellow) | `works in progress`
 
 <!--
-  | [![](https://img.shields.io/badge/-Liz7mone-white?style=flat-square&logo=Mega&logoColor=red&link=https://mega.nz/C!uvgnDKQS)](https://mega.nz/C!uvgnDKQS)
-  | [![](https://img.shields.io/badge/-Liz7mone-white?style=flat-square&logo=Mediafire&logoColor=blue&link=https://www.mediafire.com/folder/3fuwsjhiyqxx7/Adobe)](https://www.mediafire.com/folder/3fuwsjhiyqxx7/Adobe)
--->
-
 Other
 -
 > [!NOTE]
@@ -52,5 +39,6 @@ Other
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+-->
 
 <img src="tenor.gif" width="1500">
