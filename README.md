@@ -1,4 +1,4 @@
-<img src="tenor.gif" width="1500">
+<img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 
 [![GitHub @Liz7mone](https://img.shields.io/github/followers/Liz7mone?label=follow&style=social)](https://github.com/Liz7mone)
 
@@ -23,6 +23,9 @@ I am studying  ICT at [*I.I.S G. Vallauri*](http://www.vallauri.edu/public/ita/p
 | **`Fiscus`** | A discord bot with an economy and <br> management system of a virtual currency | ![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=yellow) ![](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript&logoColor=yellow) | `works in progress`
 
 <!--
+
+<img src="tenor.gif" width="1500">
+
 Other
 -
 > [!NOTE]
@@ -41,4 +44,4 @@ Other
 > Advises about risks or negative outcomes of certain actions.
 -->
 
-<img src="tenor.gif" width="1500">
+![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
