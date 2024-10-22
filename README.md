@@ -22,6 +22,12 @@ I am studying  ICT at [*I.I.S G. Vallauri*](http://www.vallauri.edu/public/ita/p
 | **`My Website`** | A website build for show my life and career | | `works in progress`
 | **`Fiscus`** | A discord bot with an economy and <br> management system of a virtual currency | ![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=yellow) ![](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript&logoColor=yellow) | `works in progress`
 
+### 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖 💻
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+
 <!--
 
 <img src="tenor.gif" width="1500">
