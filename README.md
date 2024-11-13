@@ -1,7 +1,7 @@
 <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 
 [![GitHub @Liz7mone](https://img.shields.io/github/followers/Liz7mone?label=follow&style=social)](https://github.com/Liz7mone)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](#)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M013Y6HD)
 
 ### 𝕃𝕚𝕟𝕜 🔗
 | Social | Other |
