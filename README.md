@@ -1,7 +1,8 @@
 <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 
 [![GitHub @Liz7mone](https://img.shields.io/github/followers/Liz7mone?label=follow&style=social)](https://github.com/Liz7mone)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M013Y6HD)
+[![Patreon](https://img.shields.io/badge/-Patreon-black?style=flat-square&logo=Patreon&logoColor=white)](patreon.com/Liz7mone)
+[![Ko-fi](https://img.shields.io/badge/-Ko--Fi-red?style=flat-square&logo=Ko-Fi&logoColor=white)](https://ko-fi.com/liz7mone)
 
 ### 𝕃𝕚𝕟𝕜 🔗
 | Social | Other |
@@ -21,6 +22,8 @@
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M013Y6HD)
 
 <!--
 
