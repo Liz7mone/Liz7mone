@@ -8,7 +8,7 @@
 | ------ | --------- | ------ |
 | [![Youtube](https://img.shields.io/badge/-Youtube-white?style=flat-square&logo=Youtube&logoColor=red)](https://www.youtube.com/@Liz7mone0) | [![Discord Server](https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/spatium) | [![Ko-fi](https://img.shields.io/badge/-Ko--Fi-red?style=flat-square&logo=Ko-Fi&logoColor=white)](https://ko-fi.com/liz7mone)
 | [![Tiktok](https://img.shields.io/badge/-Tiktok-black?style=flat-square&logo=Tiktok&logoColor=white)](https://www.tiktok.com/@Liz7mone) | [![X](https://img.shields.io/badge/-Telegram-white?style=flat-square&logo=Telegram&logoColor=blue)](https://t.me/Liz7mone) | [![Patreon](https://img.shields.io/badge/-Patreon-black?style=flat-square&logo=Patreon&logoColor=white)](patreon.com/Liz7mone)
-| [![X](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=X&logoColor=white)](https://t.me/Liz7mone) | [![Spotify](https://img.shields.io/badge/-Spotify-black?logo=spotify&logoColor=green)](https://spotify.com/Liz7mone) | [![Paypal](https://img.shields.io/badge/-Paypal-blue?style=flat-square&logo=Paypal=darkblue)](https://paypal.me/Liz7mone0)
+| [![X](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=X&logoColor=white)](https://t.me/Liz7mone) | [![Spotify](https://img.shields.io/badge/-Spotify-black?logo=spotify&logoColor=green)](https://spotify.com/Liz7mone) | [![Paypal](https://img.shields.io/badge/Paypal-blue?style=flat-square&logo=Paypal=darkblue)](https://paypal.me/Liz7mone0)
 
 ### ℙ𝕣𝕠𝕛𝕖𝕔𝕥 🛠
 | Name | Description | Tech Stack | Url |
