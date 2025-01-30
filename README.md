@@ -1,7 +1,3 @@
-<img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-
-[![GitHub @Liz7mone](https://img.shields.io/github/followers/Liz7mone?label=follow&style=social)](https://github.com/Liz7mone)
-
 <!--
 
 <img src="tenor.gif" width="1500">
